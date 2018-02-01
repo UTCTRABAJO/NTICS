@@ -55,8 +55,7 @@
         </div>
       </div>
       <div class="clearfix"></div>
-  <div class="content">
-    <br>	  
+  <div class="content">  
     <div style="height: 40px;width: 100%;background: black;">
     </div>
     <br>
@@ -114,7 +113,22 @@
         </a>
 
     </div>
-  
+  <header>
+		<div class="contenedor" id="uno">
+			<a href="http://academico.utc.edu.ec/LogIn.aspx?ReturnUrl=%2fEstudiantes%2fEstudiantesHome.aspx%3fid%3dSING&id=SING"><img class="icon" src="pictures/icon1.png"></a>
+			<p class="texto">Sistema</p>
+		</div>
+
+		<div class="contenedor" id="dos">
+		    <a href="http://avirtuales.utc.edu.ec/"><img class="icon" src=" "></a>
+			<p class="texto">Aula Virtual</p>
+		</div>
+
+		<div class="contenedor" id="tres">
+			<a href="http://www.utc.edu.ec/bibliotecav"><img class="icon" src=" "></a>
+			<p class="texto">Biblioteca Virtual</p>
+		</div>
+	</header>
   </center>
   <div style="height: 40px;width: 100%;background: black;"></div>
   </div>
